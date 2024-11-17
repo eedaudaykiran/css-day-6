@@ -1,0 +1,70 @@
+
+*{
+   text-align: center;
+}
+
+.p1 {
+    color:aliceblue;
+    background-color: black;
+}
+
+.p2{
+    color:antiquewhite;
+    background-color: aqua;
+}
+.p3 {
+    color:rebeccapurple;
+    background-color: royalblue;
+}
+.p4{
+    color:green ;
+    background-color:mediumaquamarine ;
+}
+.p5{
+  color:blueviolet;
+  background-color: brown;
+}
+ .op{
+    color:magenta;
+    background-color: yellowgreen;
+ }
+ .op2{
+    color:darksalmon;
+    background-color: greenyellow;
+ }
+#para1{
+    background-color: grey;
+    color: yellow;
+}
+#para2{
+    background-color: whitesmoke;
+    color:violet
+}
+#para3{
+    background-color: turquoise;
+    color:tomato
+}
+#para4{
+    background-color: mediumpurple;
+    color:blanchedalmond;
+}
+#para5{
+    background-color: mediumvioletred;
+    color:mediumturquoise
+}
+.p{
+    background-color: rebeccapurple;
+    color:blueviolet
+}
+.q1{
+    background-color: honeydew;
+    color:khaki
+}
+.q2{
+    background-color: lawngreen;
+    color: lavenderblush;
+}
+#para12{
+    background-color:gold ;
+    color: turquoise;
+}
